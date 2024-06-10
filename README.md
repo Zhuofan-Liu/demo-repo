@@ -135,7 +135,8 @@ think it as a human
 break it down, and revise it 
 
 **e.g. C.R.E.A.T.E framework (a strategy)**
-     1.context(set the specified context)
+     
+    1.context(set the specified context)
     e.g. you are an expert in a certain area, social worker, data analyst
     
     2.result(What is the delivery )
@@ -150,8 +151,8 @@ break it down, and revise it
     5.tone
     e.g. make this conversational, not direct; make it serious, humorious
     
-     6.edit(over and over again)
-     e.g. expand, 
+    6.edit(over and over again)
+    e.g. expand, 
 
 可以给对话命名， name the dialogue, and it will be more precise
 
