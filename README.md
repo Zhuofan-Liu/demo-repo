@@ -1,4 +1,4 @@
-# APISWEA 2024 International Annual Conference Training (6.3, Chengdu, China)
+# APISWEA 2024 International Annual Conference Training Session (6.3, Chengdu, China)
 ## Term Intro
 
 **knowledge cut-off** 
