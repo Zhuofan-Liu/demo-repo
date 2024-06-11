@@ -1,4 +1,4 @@
-# basic operation
+# basic operation(change test)
 - ls #list the content of the directory
 - more cobras #For example, to see the contents of the "cobras" file, you would type it
 - mkdir dogs #short for "make directory"
