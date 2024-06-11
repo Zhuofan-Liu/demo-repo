@@ -166,16 +166,16 @@ no exampls
 clear context or open a new chat
 
 ### Examples
-1.The 
+**1.The**
 
-2.###examples
+**2.###examples**
 -xxx(shift+enter)
 -xxx
 -xxx
 
-3.###here is the abtract you need to 
+**3.###here is the abtract you need to**
 
-4.###Requirement(emotional prompt)
+**4.###Requirement(emotional prompt)**
 
 
 #fromUnstructedToStracturedInfo
